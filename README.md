@@ -51,7 +51,7 @@ If you encounter any issues or have questions, please file an issue in the repos
 
 Embark on a data conversation journey with and experience the future of data interaction today!
 
-Contact me at thomas.marshall.co.uk.
+Contact me at marshallthomasm@gmail.com
 
 ## Notes
 I did not write the implementation of RAPTOR contained in this repo, this is from https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb.
