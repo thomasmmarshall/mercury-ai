@@ -93,7 +93,7 @@ To begin your journey with, make sure Python is installed on your system. Follow
 
 1. Clone the Mercury repository:
    ```bash
-   git clone https:/github.com/thomasmmarshall/mercury-rag
+   git clone https:/github.com/thomasmmarshall/mercury-ai
    ```
 2. Navigate to the Mercury directory:
    ```bash
@@ -133,9 +133,7 @@ This repo is available under the GNU GPL v3 License - see the [LICENSE](LICENSE)
 
 ## Support
 
-If you encounter any issues or have questions, please file an issue in the repository's issue tracker.
-
-Embark on a data conversation journey with and experience the future of data interaction today!
+If you encounter any issues or have questions, please file an issue in the repository's issue tracker (my email).
 
 Contact me at marshallthomasm@gmail.com
 
